@@ -50,7 +50,7 @@ For example `!buy Burning Team Captain` becomes `buy_burning_team_captain` which
 
 -   `%price%` - displays the price (e.g., `14 keys`).
 -   `%name%` - displays the **item name** or **itemID**.
--   `%ecp_item%` - displays the trading command (e.g., 𝘀𝗲𝗹𝗹*𝗠𝗮𝗻𝗻*𝗖𝗼*𝗦𝘂𝗽𝗽𝗹𝘆*𝗖𝗿𝗮𝘁𝗲_𝗞𝗲𝘆).
+-   `%ecp_item%` - displays the trading command (e.g., sell_Mann_Co_Supply_Crate_Key).
 -   `%max_stock%` - displays the maximum capacity of the item in the bot's inventory.
 -   `%current_stock%` - displays the current count of the item in the bot's inventory.
 -   `%pricedb_store%` - displays the URL of the bot's PriceDB store.
